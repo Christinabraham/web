@@ -10,25 +10,25 @@
 <body>
     <div class="login">
         <div class="row">
-            <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xl-4 col-xxl-4">
-                <table class="table">
-
+            <div class="col col-12 col-sm-6 col-md- col-lg-6 col-xl-6 col-xl-6 col-xxl-6">
+                <table class="table table-/borderless">
                     <tr>
                         <td>username</td>
-                        <td><input type="text" class="form-conntrol"></td>
+                        <td><input type="text" class="form-control"></td>
                     </tr>
                     <tr>
                         <td>password</td>
                         <td><input type="text" class="form-control"></td>
                     </tr>
+                    
                     <tr>
                         <td></td>
                         <td><button class="bnt btn-primary">SUBMIT</button></td>
                     </tr>
-                </table> 
+                </table>
             </div>
-            <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xl-4 col-xxl-4">
-                <table class="table">
+            <div class="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xl-6 col-xxl-6">
+                <table class="table table-borderless">
                     <tr>
                         <td>Name</td>
                         <td><input type="text" class="form-control"></td>
